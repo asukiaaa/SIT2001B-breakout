@@ -1,2 +1,4 @@
 gerber_to_order
 fp-info-cache
+*.kicad_pcb-bak
+*.sch-bak
